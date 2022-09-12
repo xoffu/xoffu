@@ -3,9 +3,9 @@
 
 - I'm using IntelliJ IDEA **.**
 
-- 👨‍💻 I’m currently learning Java and C. **.**
+- 👨‍💻 I’m currently learning Java and C.
 
-- Also, I'm interested in games and making hacked clients. **.**
+- Also, I'm interested in games and making hacked clients. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
