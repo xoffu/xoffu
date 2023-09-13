@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm xoffu</h1>
 <h3 align="center">I'm a student of Mechatronic Engineering in a technical high school.</h3>
  
-- Developer of Wurst+3 first version.
+- Developer of Wurst+3 Hacked Client first version.
 
 - I'm using IntelliJ IDEA **.**
 
