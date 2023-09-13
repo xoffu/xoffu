@@ -1,11 +1,13 @@
-<h1 align="center">Howdy? I'm xoffu</h1>
+<h1 align="center">Hello! I'm xoffu</h1>
 <h3 align="center">I'm a student of Mechatronic Engineering in a technical high school.</h3>
+ 
+- Developer of Wurst+3 first version.
 
 - I'm using IntelliJ IDEA **.**
 
 - 👨‍💻 I’m currently learning Java.
 
-- Also, I'm interested in games and making hacked clients. 
+- Also, I'm interested in codding hacked clients. 
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
